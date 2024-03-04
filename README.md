@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokhanalay
-- 👀 I’m a Software Test Automation Engineer about 6 and a half years.
+- 👀 I’m a Software Test Automation Engineer about 6 years.
 - 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : gokhanalayy@gmail.com 
